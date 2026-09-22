@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/vikasbalaji1717/LeetCode/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/vikasbalaji1717/LeetCode/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/vikasbalaji1717/LeetCode/tree/master/1341-movie-rating) |
+| [1527-patients-with-a-condition](https://github.com/vikasbalaji1717/LeetCode/tree/master/1527-patients-with-a-condition) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/vikasbalaji1717/LeetCode/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1667-fix-names-in-a-table](https://github.com/vikasbalaji1717/LeetCode/tree/master/1667-fix-names-in-a-table) |
 | [1729-find-followers-count](https://github.com/vikasbalaji1717/LeetCode/tree/master/1729-find-followers-count) |
