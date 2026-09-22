@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/vikasbalaji1717/LeetCode/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
