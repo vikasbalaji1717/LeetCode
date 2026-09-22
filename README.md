@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0550-game-play-analysis-iv](https://github.com/vikasbalaji1717/LeetCode/tree/master/0550-game-play-analysis-iv) |
 | [0577-employee-bonus](https://github.com/vikasbalaji1717/LeetCode/tree/master/0577-employee-bonus) |
 | [0596-classes-with-at-least-5-students](https://github.com/vikasbalaji1717/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
+| [0610-triangle-judgement](https://github.com/vikasbalaji1717/LeetCode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/vikasbalaji1717/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/vikasbalaji1717/LeetCode/tree/master/0620-not-boring-movies) |
 | [1070-product-sales-analysis-iii](https://github.com/vikasbalaji1717/LeetCode/tree/master/1070-product-sales-analysis-iii) |
