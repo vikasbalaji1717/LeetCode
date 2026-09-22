@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-restaurant-growth](https://github.com/vikasbalaji1717/LeetCode/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/vikasbalaji1717/LeetCode/tree/master/1341-movie-rating) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/vikasbalaji1717/LeetCode/tree/master/1633-percentage-of-users-attended-a-contest) |
+| [1667-fix-names-in-a-table](https://github.com/vikasbalaji1717/LeetCode/tree/master/1667-fix-names-in-a-table) |
 | [1729-find-followers-count](https://github.com/vikasbalaji1717/LeetCode/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/vikasbalaji1717/LeetCode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/vikasbalaji1717/LeetCode/tree/master/1789-primary-department-for-each-employee) |
