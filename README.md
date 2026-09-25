@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vikasbalaji1717/LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vikasbalaji1717/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/vikasbalaji1717/LeetCode/tree/master/0242-valid-anagram) |
 | [0459-repeated-substring-pattern](https://github.com/vikasbalaji1717/LeetCode/tree/master/0459-repeated-substring-pattern) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vikasbalaji1717/LeetCode/tree/master/0013-roman-to-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vikasbalaji1717/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3525-find-x-value-of-array-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vikasbalaji1717/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vikasbalaji1717/LeetCode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/vikasbalaji1717/LeetCode/tree/master/0242-valid-anagram) |
 | [1096-brace-expansion-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vikasbalaji1717/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
