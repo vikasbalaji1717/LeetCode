@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vikasbalaji1717/LeetCode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/vikasbalaji1717/LeetCode/tree/master/0682-baseball-game) |
 | [0896-monotonic-array](https://github.com/vikasbalaji1717/LeetCode/tree/master/0896-monotonic-array) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/vikasbalaji1717/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vikasbalaji1717/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vikasbalaji1717/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vikasbalaji1717/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vikasbalaji1717/LeetCode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/vikasbalaji1717/LeetCode/tree/master/0242-valid-anagram) |
 | [1096-brace-expansion-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/vikasbalaji1717/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vikasbalaji1717/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vikasbalaji1717/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Binary Search
@@ -139,4 +141,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/vikasbalaji1717/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/vikasbalaji1717/LeetCode/tree/master/0682-baseball-game) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/vikasbalaji1717/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+## Matrix
+|  |
+| ------- |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/vikasbalaji1717/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 <!---LeetCode Topics End-->
