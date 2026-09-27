@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vikasbalaji1717/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0283-move-zeroes](https://github.com/vikasbalaji1717/LeetCode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/vikasbalaji1717/LeetCode/tree/master/0682-baseball-game) |
+| [0860-lemonade-change](https://github.com/vikasbalaji1717/LeetCode/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/vikasbalaji1717/LeetCode/tree/master/0896-monotonic-array) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/vikasbalaji1717/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vikasbalaji1717/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vikasbalaji1717/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/vikasbalaji1717/LeetCode/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
