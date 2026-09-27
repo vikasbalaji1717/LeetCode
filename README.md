@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/vikasbalaji1717/LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vikasbalaji1717/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/vikasbalaji1717/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/vikasbalaji1717/LeetCode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/vikasbalaji1717/LeetCode/tree/master/0242-valid-anagram) |
 | [0459-repeated-substring-pattern](https://github.com/vikasbalaji1717/LeetCode/tree/master/0459-repeated-substring-pattern) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vikasbalaji1717/LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/vikasbalaji1717/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/vikasbalaji1717/LeetCode/tree/master/0067-add-binary) |
 | [0976-largest-perimeter-triangle](https://github.com/vikasbalaji1717/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1041-robot-bounded-in-circle](https://github.com/vikasbalaji1717/LeetCode/tree/master/1041-robot-bounded-in-circle) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/vikasbalaji1717/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/vikasbalaji1717/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/vikasbalaji1717/LeetCode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/vikasbalaji1717/LeetCode/tree/master/0657-robot-return-to-origin) |
