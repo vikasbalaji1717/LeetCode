@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/vikasbalaji1717/LeetCode/tree/master/0013-roman-to-integer) |
 | [1041-robot-bounded-in-circle](https://github.com/vikasbalaji1717/LeetCode/tree/master/1041-robot-bounded-in-circle) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/vikasbalaji1717/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/vikasbalaji1717/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3525-find-x-value-of-array-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vikasbalaji1717/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
