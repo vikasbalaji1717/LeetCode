@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/vikasbalaji1717/LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vikasbalaji1717/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/vikasbalaji1717/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/vikasbalaji1717/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/vikasbalaji1717/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/vikasbalaji1717/LeetCode/tree/master/0068-text-justification) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vikasbalaji1717/LeetCode/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/vikasbalaji1717/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0073-set-matrix-zeroes](https://github.com/vikasbalaji1717/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/vikasbalaji1717/LeetCode/tree/master/0242-valid-anagram) |
 | [1096-brace-expansion-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/1096-brace-expansion-ii) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/vikasbalaji1717/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vikasbalaji1717/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
