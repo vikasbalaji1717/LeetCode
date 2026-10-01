@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vikasbalaji1717/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vikasbalaji1717/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/vikasbalaji1717/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/vikasbalaji1717/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vikasbalaji1717/LeetCode/tree/master/0283-move-zeroes) |
 | [1768-merge-strings-alternately](https://github.com/vikasbalaji1717/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vikasbalaji1717/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/vikasbalaji1717/LeetCode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/vikasbalaji1717/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/vikasbalaji1717/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/vikasbalaji1717/LeetCode/tree/master/0242-valid-anagram) |
 | [0459-repeated-substring-pattern](https://github.com/vikasbalaji1717/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0657-robot-return-to-origin](https://github.com/vikasbalaji1717/LeetCode/tree/master/0657-robot-return-to-origin) |
