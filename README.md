@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vikasbalaji1717/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/vikasbalaji1717/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/vikasbalaji1717/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vikasbalaji1717/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/vikasbalaji1717/LeetCode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/vikasbalaji1717/LeetCode/tree/master/0068-text-justification) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/vikasbalaji1717/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vikasbalaji1717/LeetCode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/vikasbalaji1717/LeetCode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/vikasbalaji1717/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/vikasbalaji1717/LeetCode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/vikasbalaji1717/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/vikasbalaji1717/LeetCode/tree/master/0189-rotate-array) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/vikasbalaji1717/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vikasbalaji1717/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/vikasbalaji1717/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/vikasbalaji1717/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
