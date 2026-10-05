@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/vikasbalaji1717/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/vikasbalaji1717/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/vikasbalaji1717/LeetCode/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/vikasbalaji1717/LeetCode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/vikasbalaji1717/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/vikasbalaji1717/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/vikasbalaji1717/LeetCode/tree/master/0242-valid-anagram) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vikasbalaji1717/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vikasbalaji1717/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vikasbalaji1717/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/vikasbalaji1717/LeetCode/tree/master/0071-simplify-path) |
 | [0682-baseball-game](https://github.com/vikasbalaji1717/LeetCode/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/vikasbalaji1717/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/1096-brace-expansion-ii) |
