@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vikasbalaji1717/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vikasbalaji1717/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/vikasbalaji1717/LeetCode/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/vikasbalaji1717/LeetCode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/vikasbalaji1717/LeetCode/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/vikasbalaji1717/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/1096-brace-expansion-ii) |
@@ -311,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vikasbalaji1717/LeetCode/tree/master/0042-trapping-rain-water) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/vikasbalaji1717/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
