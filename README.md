@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vikasbalaji1717/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vikasbalaji1717/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vikasbalaji1717/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/vikasbalaji1717/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/vikasbalaji1717/LeetCode/tree/master/0283-move-zeroes) |
 | [1768-merge-strings-alternately](https://github.com/vikasbalaji1717/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## String
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vikasbalaji1717/LeetCode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vikasbalaji1717/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/vikasbalaji1717/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/vikasbalaji1717/LeetCode/tree/master/0202-happy-number) |
 | [0976-largest-perimeter-triangle](https://github.com/vikasbalaji1717/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1041-robot-bounded-in-circle](https://github.com/vikasbalaji1717/LeetCode/tree/master/1041-robot-bounded-in-circle) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/vikasbalaji1717/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vikasbalaji1717/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0073-set-matrix-zeroes](https://github.com/vikasbalaji1717/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/vikasbalaji1717/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0202-happy-number](https://github.com/vikasbalaji1717/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/vikasbalaji1717/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/vikasbalaji1717/LeetCode/tree/master/0383-ransom-note) |
 | [1096-brace-expansion-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/1096-brace-expansion-ii) |
@@ -331,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/vikasbalaji1717/LeetCode/tree/master/0383-ransom-note) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/vikasbalaji1717/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
