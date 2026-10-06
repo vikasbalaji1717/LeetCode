@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/vikasbalaji1717/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/vikasbalaji1717/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/vikasbalaji1717/LeetCode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/vikasbalaji1717/LeetCode/tree/master/0383-ransom-note) |
 | [0459-repeated-substring-pattern](https://github.com/vikasbalaji1717/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0657-robot-return-to-origin](https://github.com/vikasbalaji1717/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0856-score-of-parentheses](https://github.com/vikasbalaji1717/LeetCode/tree/master/0856-score-of-parentheses) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vikasbalaji1717/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/vikasbalaji1717/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/vikasbalaji1717/LeetCode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/vikasbalaji1717/LeetCode/tree/master/0383-ransom-note) |
 | [1096-brace-expansion-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/vikasbalaji1717/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vikasbalaji1717/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -323,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vikasbalaji1717/LeetCode/tree/master/0155-min-stack) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/vikasbalaji1717/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
