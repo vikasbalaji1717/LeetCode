@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/vikasbalaji1717/LeetCode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/vikasbalaji1717/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/vikasbalaji1717/LeetCode/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/vikasbalaji1717/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/vikasbalaji1717/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/vikasbalaji1717/LeetCode/tree/master/0383-ransom-note) |
 | [0459-repeated-substring-pattern](https://github.com/vikasbalaji1717/LeetCode/tree/master/0459-repeated-substring-pattern) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/vikasbalaji1717/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/vikasbalaji1717/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vikasbalaji1717/LeetCode/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/vikasbalaji1717/LeetCode/tree/master/0224-basic-calculator) |
 | [0976-largest-perimeter-triangle](https://github.com/vikasbalaji1717/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1041-robot-bounded-in-circle](https://github.com/vikasbalaji1717/LeetCode/tree/master/1041-robot-bounded-in-circle) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/vikasbalaji1717/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/vikasbalaji1717/LeetCode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vikasbalaji1717/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/vikasbalaji1717/LeetCode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/vikasbalaji1717/LeetCode/tree/master/0224-basic-calculator) |
 | [0682-baseball-game](https://github.com/vikasbalaji1717/LeetCode/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/vikasbalaji1717/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vikasbalaji1717/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vikasbalaji1717/LeetCode/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/vikasbalaji1717/LeetCode/tree/master/0224-basic-calculator) |
 ## Dynamic Programming
 |  |
 | ------- |
