@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/vikasbalaji1717/LeetCode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/vikasbalaji1717/LeetCode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/vikasbalaji1717/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/vikasbalaji1717/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/vikasbalaji1717/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/vikasbalaji1717/LeetCode/tree/master/0127-word-ladder) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vikasbalaji1717/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/vikasbalaji1717/LeetCode/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/vikasbalaji1717/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/vikasbalaji1717/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/vikasbalaji1717/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vikasbalaji1717/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vikasbalaji1717/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/vikasbalaji1717/LeetCode/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/vikasbalaji1717/LeetCode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/vikasbalaji1717/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/0212-word-search-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/vikasbalaji1717/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/1096-brace-expansion-ii) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vikasbalaji1717/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vikasbalaji1717/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/vikasbalaji1717/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/vikasbalaji1717/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/vikasbalaji1717/LeetCode/tree/master/0289-game-of-life) |
 | [0909-snakes-and-ladders](https://github.com/vikasbalaji1717/LeetCode/tree/master/0909-snakes-and-ladders) |
@@ -398,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vikasbalaji1717/LeetCode/tree/master/0079-word-search) |
 | [0199-binary-tree-right-side-view](https://github.com/vikasbalaji1717/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vikasbalaji1717/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vikasbalaji1717/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
