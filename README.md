@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/vikasbalaji1717/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/vikasbalaji1717/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/vikasbalaji1717/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/vikasbalaji1717/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vikasbalaji1717/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/vikasbalaji1717/LeetCode/tree/master/0055-jump-game) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vikasbalaji1717/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/vikasbalaji1717/LeetCode/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/vikasbalaji1717/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/vikasbalaji1717/LeetCode/tree/master/0077-combinations) |
 | [0212-word-search-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/0212-word-search-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/vikasbalaji1717/LeetCode/tree/master/0301-remove-invalid-parentheses) |
