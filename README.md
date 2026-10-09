@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vikasbalaji1717/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/vikasbalaji1717/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/vikasbalaji1717/LeetCode/tree/master/0046-permutations) |
+| [0052-n-queens-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/vikasbalaji1717/LeetCode/tree/master/0077-combinations) |
 | [0212-word-search-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/0212-word-search-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/vikasbalaji1717/LeetCode/tree/master/0301-remove-invalid-parentheses) |
@@ -424,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vikasbalaji1717/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/0212-word-search-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
