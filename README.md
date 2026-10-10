@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vikasbalaji1717/LeetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/vikasbalaji1717/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vikasbalaji1717/LeetCode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/vikasbalaji1717/LeetCode/tree/master/0043-multiply-strings) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vikasbalaji1717/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/vikasbalaji1717/LeetCode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/vikasbalaji1717/LeetCode/tree/master/0224-basic-calculator) |
 ## Dynamic Programming
@@ -448,5 +450,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vikasbalaji1717/LeetCode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/vikasbalaji1717/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
