@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/vikasbalaji1717/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vikasbalaji1717/LeetCode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/vikasbalaji1717/LeetCode/tree/master/0289-game-of-life) |
+| [0427-construct-quad-tree](https://github.com/vikasbalaji1717/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vikasbalaji1717/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0682-baseball-game](https://github.com/vikasbalaji1717/LeetCode/tree/master/0682-baseball-game) |
 | [0860-lemonade-change](https://github.com/vikasbalaji1717/LeetCode/tree/master/0860-lemonade-change) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/vikasbalaji1717/LeetCode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/vikasbalaji1717/LeetCode/tree/master/0289-game-of-life) |
+| [0427-construct-quad-tree](https://github.com/vikasbalaji1717/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0909-snakes-and-ladders](https://github.com/vikasbalaji1717/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/vikasbalaji1717/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1572-matrix-diagonal-sum](https://github.com/vikasbalaji1717/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vikasbalaji1717/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/vikasbalaji1717/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vikasbalaji1717/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0427-construct-quad-tree](https://github.com/vikasbalaji1717/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vikasbalaji1717/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Depth-First Search
 |  |
@@ -488,4 +491,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vikasbalaji1717/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0427-construct-quad-tree](https://github.com/vikasbalaji1717/LeetCode/tree/master/0427-construct-quad-tree) |
 <!---LeetCode Topics End-->
