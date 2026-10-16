@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vikasbalaji1717/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/vikasbalaji1717/LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/vikasbalaji1717/LeetCode/tree/master/0134-gas-station) |
+| [0149-max-points-on-a-line](https://github.com/vikasbalaji1717/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vikasbalaji1717/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vikasbalaji1717/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vikasbalaji1717/LeetCode/tree/master/0189-rotate-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vikasbalaji1717/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/vikasbalaji1717/LeetCode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/vikasbalaji1717/LeetCode/tree/master/0067-add-binary) |
+| [0149-max-points-on-a-line](https://github.com/vikasbalaji1717/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vikasbalaji1717/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/vikasbalaji1717/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vikasbalaji1717/LeetCode/tree/master/0202-happy-number) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/vikasbalaji1717/LeetCode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/vikasbalaji1717/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/vikasbalaji1717/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0149-max-points-on-a-line](https://github.com/vikasbalaji1717/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/vikasbalaji1717/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/vikasbalaji1717/LeetCode/tree/master/0242-valid-anagram) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/vikasbalaji1717/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/vikasbalaji1717/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Bit Manipulation
 |  |
@@ -537,4 +541,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/vikasbalaji1717/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/vikasbalaji1717/LeetCode/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/vikasbalaji1717/LeetCode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
