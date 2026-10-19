@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vikasbalaji1717/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/0212-word-search-ii) |
 | [0219-contains-duplicate-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/vikasbalaji1717/LeetCode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/vikasbalaji1717/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vikasbalaji1717/LeetCode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/vikasbalaji1717/LeetCode/tree/master/0289-game-of-life) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/vikasbalaji1717/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vikasbalaji1717/LeetCode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/vikasbalaji1717/LeetCode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/vikasbalaji1717/LeetCode/tree/master/0289-game-of-life) |
 | [0427-construct-quad-tree](https://github.com/vikasbalaji1717/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0909-snakes-and-ladders](https://github.com/vikasbalaji1717/LeetCode/tree/master/0909-snakes-and-ladders) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/vikasbalaji1717/LeetCode/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vikasbalaji1717/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vikasbalaji1717/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0221-maximal-square](https://github.com/vikasbalaji1717/LeetCode/tree/master/0221-maximal-square) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vikasbalaji1717/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Monotonic Stack
 |  |
