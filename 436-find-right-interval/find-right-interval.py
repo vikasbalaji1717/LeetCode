@@ -17,3 +17,4 @@ class Solution:
                 result.append(starts[pos][1])
 
         return result
+    
