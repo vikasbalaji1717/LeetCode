@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vikasbalaji1717/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vikasbalaji1717/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/vikasbalaji1717/LeetCode/tree/master/0224-basic-calculator) |
+| [0441-arranging-coins](https://github.com/vikasbalaji1717/LeetCode/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/vikasbalaji1717/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1041-robot-bounded-in-circle](https://github.com/vikasbalaji1717/LeetCode/tree/master/1041-robot-bounded-in-circle) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/vikasbalaji1717/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vikasbalaji1717/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vikasbalaji1717/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0441-arranging-coins](https://github.com/vikasbalaji1717/LeetCode/tree/master/0441-arranging-coins) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vikasbalaji1717/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vikasbalaji1717/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sliding Window
