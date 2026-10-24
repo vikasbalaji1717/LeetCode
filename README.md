@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/vikasbalaji1717/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vikasbalaji1717/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0682-baseball-game](https://github.com/vikasbalaji1717/LeetCode/tree/master/0682-baseball-game) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/vikasbalaji1717/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/vikasbalaji1717/LeetCode/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/vikasbalaji1717/LeetCode/tree/master/0896-monotonic-array) |
 | [0909-snakes-and-ladders](https://github.com/vikasbalaji1717/LeetCode/tree/master/0909-snakes-and-ladders) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vikasbalaji1717/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vikasbalaji1717/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0441-arranging-coins](https://github.com/vikasbalaji1717/LeetCode/tree/master/0441-arranging-coins) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/vikasbalaji1717/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vikasbalaji1717/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vikasbalaji1717/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sliding Window
@@ -568,4 +570,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/vikasbalaji1717/LeetCode/tree/master/0149-max-points-on-a-line) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/vikasbalaji1717/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
