@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vikasbalaji1717/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/vikasbalaji1717/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/vikasbalaji1717/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/vikasbalaji1717/LeetCode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/vikasbalaji1717/LeetCode/tree/master/0224-basic-calculator) |
 ## Dynamic Programming
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vikasbalaji1717/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/vikasbalaji1717/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/vikasbalaji1717/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/vikasbalaji1717/LeetCode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vikasbalaji1717/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
