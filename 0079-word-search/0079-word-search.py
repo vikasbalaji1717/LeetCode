@@ -1,10 +1,9 @@
 
 class Solution:
     def exist(self, board: list[list[str]], word: str) -> bool:
-        rows = len(board)
-        cols = len(board[0])
+        rows, cols = len(board), len(board[0])
 
-        def dfs(r, c, index):
+        def backtrack(r, c, index):
             if index == len(word):
                 return True
 
@@ -13,26 +12,22 @@ class Solution:
                 board[r][c] != word[index]):
                 return False
 
-            # Mark this cell as visited
             temp = board[r][c]
-            board[r][c] = "#"
+            board[r][c] = '#'
 
-            # Search in four directions
             found = (
-                dfs(r + 1, c, index + 1) or
-                dfs(r - 1, c, index + 1) or
-                dfs(r, c + 1, index + 1) or
-                dfs(r, c - 1, index + 1)
+                backtrack(r + 1, c, index + 1) or
+                backtrack(r - 1, c, index + 1) or
+                backtrack(r, c + 1, index + 1) or
+                backtrack(r, c - 1, index + 1)
             )
 
-            # Restore the original character
             board[r][c] = temp
-
             return found
 
         for r in range(rows):
             for c in range(cols):
-                if dfs(r, c, 0):
+                if backtrack(r, c, 0):
                     return True
 
         return False
