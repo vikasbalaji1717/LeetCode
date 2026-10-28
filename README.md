@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/vikasbalaji1717/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/vikasbalaji1717/LeetCode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/vikasbalaji1717/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/vikasbalaji1717/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/vikasbalaji1717/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vikasbalaji1717/LeetCode/tree/master/0056-merge-intervals) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vikasbalaji1717/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/vikasbalaji1717/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/vikasbalaji1717/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/vikasbalaji1717/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/vikasbalaji1717/LeetCode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/vikasbalaji1717/LeetCode/tree/master/0079-word-search) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/vikasbalaji1717/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/0052-n-queens-ii) |
 ## Heap (Priority Queue)
 |  |
