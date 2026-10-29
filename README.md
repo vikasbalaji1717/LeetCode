@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/vikasbalaji1717/LeetCode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/vikasbalaji1717/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/vikasbalaji1717/LeetCode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/vikasbalaji1717/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/vikasbalaji1717/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0433-minimum-genetic-mutation](https://github.com/vikasbalaji1717/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vikasbalaji1717/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/vikasbalaji1717/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/vikasbalaji1717/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/vikasbalaji1717/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/vikasbalaji1717/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vikasbalaji1717/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0427-construct-quad-tree](https://github.com/vikasbalaji1717/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vikasbalaji1717/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/vikasbalaji1717/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/vikasbalaji1717/LeetCode/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vikasbalaji1717/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0226-invert-binary-tree](https://github.com/vikasbalaji1717/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vikasbalaji1717/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vikasbalaji1717/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Search Tree
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/vikasbalaji1717/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/vikasbalaji1717/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/vikasbalaji1717/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/vikasbalaji1717/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vikasbalaji1717/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vikasbalaji1717/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Bidirectional Search
