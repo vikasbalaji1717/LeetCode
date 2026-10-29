@@ -1,3 +1,4 @@
+
 class Solution:
     def searchMatrix(self, matrix: list[list[int]], target: int) -> bool:
         m = len(matrix)
@@ -9,7 +10,6 @@ class Solution:
         while left <= right:
             mid = (left + right) // 2
 
-            # Convert 1D index into 2D row and column
             row = mid // n
             col = mid % n
 
