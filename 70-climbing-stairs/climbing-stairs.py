@@ -1,15 +1,17 @@
 
 class Solution:
     def climbStairs(self, n: int) -> int:
+
         if n <= 2:
             return n
 
-        prev2 = 1
-        prev1 = 2
+        first = 1
+        second = 2
 
         for i in range(3, n + 1):
-            current = prev1 + prev2
-            prev2 = prev1
-            prev1 = current
+            third = first + second
 
-        return prev1
+            first = second
+            second = third
+
+        return second
