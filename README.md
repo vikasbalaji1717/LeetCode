@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vikasbalaji1717/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vikasbalaji1717/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/vikasbalaji1717/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/vikasbalaji1717/LeetCode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vikasbalaji1717/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vikasbalaji1717/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vikasbalaji1717/LeetCode/tree/master/0202-happy-number) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vikasbalaji1717/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/vikasbalaji1717/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/vikasbalaji1717/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/vikasbalaji1717/LeetCode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/vikasbalaji1717/LeetCode/tree/master/0242-valid-anagram) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vikasbalaji1717/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0976-largest-perimeter-triangle](https://github.com/vikasbalaji1717/LeetCode/tree/master/0976-largest-perimeter-triangle) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/vikasbalaji1717/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/vikasbalaji1717/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/vikasbalaji1717/LeetCode/tree/master/0148-sort-list) |
 | [0445-add-two-numbers-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/0445-add-two-numbers-ii) |
 ## Graph Theory
 |  |
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vikasbalaji1717/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vikasbalaji1717/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vikasbalaji1717/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/vikasbalaji1717/LeetCode/tree/master/0148-sort-list) |
 | [0427-construct-quad-tree](https://github.com/vikasbalaji1717/LeetCode/tree/master/0427-construct-quad-tree) |
 ## DP on Trees
 |  |
@@ -600,4 +604,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vikasbalaji1717/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/vikasbalaji1717/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
