@@ -1,4 +1,3 @@
-
 SELECT
     email AS Email
 FROM Person
