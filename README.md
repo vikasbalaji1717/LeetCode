@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/vikasbalaji1717/LeetCode/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/vikasbalaji1717/LeetCode/tree/master/0896-monotonic-array) |
 | [0909-snakes-and-ladders](https://github.com/vikasbalaji1717/LeetCode/tree/master/0909-snakes-and-ladders) |
+| [0931-minimum-falling-path-sum](https://github.com/vikasbalaji1717/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/vikasbalaji1717/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0994-rotting-oranges](https://github.com/vikasbalaji1717/LeetCode/tree/master/0994-rotting-oranges) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/vikasbalaji1717/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/vikasbalaji1717/LeetCode/tree/master/0289-game-of-life) |
 | [0427-construct-quad-tree](https://github.com/vikasbalaji1717/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0909-snakes-and-ladders](https://github.com/vikasbalaji1717/LeetCode/tree/master/0909-snakes-and-ladders) |
+| [0931-minimum-falling-path-sum](https://github.com/vikasbalaji1717/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/vikasbalaji1717/LeetCode/tree/master/0994-rotting-oranges) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/vikasbalaji1717/LeetCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1572-matrix-diagonal-sum](https://github.com/vikasbalaji1717/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vikasbalaji1717/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vikasbalaji1717/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0221-maximal-square](https://github.com/vikasbalaji1717/LeetCode/tree/master/0221-maximal-square) |
+| [0931-minimum-falling-path-sum](https://github.com/vikasbalaji1717/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vikasbalaji1717/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Monotonic Stack
 |  |
