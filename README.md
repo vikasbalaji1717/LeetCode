@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/vikasbalaji1717/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vikasbalaji1717/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3525-find-x-value-of-array-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/vikasbalaji1717/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vikasbalaji1717/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/vikasbalaji1717/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Math
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vikasbalaji1717/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vikasbalaji1717/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vikasbalaji1717/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/vikasbalaji1717/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/vikasbalaji1717/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vikasbalaji1717/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vikasbalaji1717/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/vikasbalaji1717/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vikasbalaji1717/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/vikasbalaji1717/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vikasbalaji1717/LeetCode/tree/master/0200-number-of-islands) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/vikasbalaji1717/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Tree
 |  |
 | ------- |
@@ -603,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/vikasbalaji1717/LeetCode/tree/master/0133-clone-graph) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/vikasbalaji1717/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
 | ------- |
