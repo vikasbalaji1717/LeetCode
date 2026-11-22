@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/vikasbalaji1717/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/vikasbalaji1717/LeetCode/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [2685-count-the-number-of-complete-components](https://github.com/vikasbalaji1717/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Sorting
 |  |
 | ------- |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vikasbalaji1717/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/vikasbalaji1717/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vikasbalaji1717/LeetCode/tree/master/0200-number-of-islands) |
+| [2685-count-the-number-of-complete-components](https://github.com/vikasbalaji1717/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vikasbalaji1717/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Tree
 |  |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/vikasbalaji1717/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vikasbalaji1717/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vikasbalaji1717/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [2685-count-the-number-of-complete-components](https://github.com/vikasbalaji1717/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/vikasbalaji1717/LeetCode/tree/master/0133-clone-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/vikasbalaji1717/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vikasbalaji1717/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
