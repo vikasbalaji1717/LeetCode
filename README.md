@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/vikasbalaji1717/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/vikasbalaji1717/LeetCode/tree/master/0283-move-zeroes) |
 | [1768-merge-strings-alternately](https://github.com/vikasbalaji1717/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vikasbalaji1717/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3525-find-x-value-of-array-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vikasbalaji1717/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vikasbalaji1717/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/vikasbalaji1717/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Math
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vikasbalaji1717/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vikasbalaji1717/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vikasbalaji1717/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vikasbalaji1717/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vikasbalaji1717/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -426,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vikasbalaji1717/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vikasbalaji1717/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vikasbalaji1717/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Quicksort
 |  |
 | ------- |
@@ -446,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vikasbalaji1717/LeetCode/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/vikasbalaji1717/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vikasbalaji1717/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -472,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/vikasbalaji1717/LeetCode/tree/master/0221-maximal-square) |
 | [0931-minimum-falling-path-sum](https://github.com/vikasbalaji1717/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vikasbalaji1717/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -608,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/vikasbalaji1717/LeetCode/tree/master/0133-clone-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vikasbalaji1717/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
