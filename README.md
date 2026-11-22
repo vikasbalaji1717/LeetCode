@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/vikasbalaji1717/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3525-find-x-value-of-array-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vikasbalaji1717/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vikasbalaji1717/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Segment Tree
 |  |
 | ------- |
