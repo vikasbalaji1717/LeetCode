@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/vikasbalaji1717/LeetCode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/vikasbalaji1717/LeetCode/tree/master/0289-game-of-life) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vikasbalaji1717/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0427-construct-quad-tree](https://github.com/vikasbalaji1717/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vikasbalaji1717/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0682-baseball-game](https://github.com/vikasbalaji1717/LeetCode/tree/master/0682-baseball-game) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vikasbalaji1717/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vikasbalaji1717/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/vikasbalaji1717/LeetCode/tree/master/0224-basic-calculator) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vikasbalaji1717/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0441-arranging-coins](https://github.com/vikasbalaji1717/LeetCode/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/vikasbalaji1717/LeetCode/tree/master/0976-largest-perimeter-triangle) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/vikasbalaji1717/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/vikasbalaji1717/LeetCode/tree/master/0242-valid-anagram) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vikasbalaji1717/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/vikasbalaji1717/LeetCode/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/vikasbalaji1717/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [1096-brace-expansion-ii](https://github.com/vikasbalaji1717/LeetCode/tree/master/1096-brace-expansion-ii) |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/vikasbalaji1717/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/vikasbalaji1717/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vikasbalaji1717/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vikasbalaji1717/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Counting
 |  |
 | ------- |
@@ -677,4 +681,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vikasbalaji1717/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Randomized
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/vikasbalaji1717/LeetCode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
